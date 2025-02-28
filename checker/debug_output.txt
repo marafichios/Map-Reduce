@@ -1,0 +1,4 @@
+Current working directory: /home/student/an3/APD/TEMA1/checker
+Mapper 0 processing files 0 to 354
+Reducer 0 waiting at barrier
+Mapper 0 completed in 1.95 seconds
